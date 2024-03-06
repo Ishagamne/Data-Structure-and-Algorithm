@@ -1,4 +1,4 @@
-1\. Hashing
+1\. HASHING
 -----------
 ## 1.1\. Hashing Program For Linear Probing And Quadratic Probing
 
