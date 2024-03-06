@@ -1,9 +1,12 @@
 1\. Hashing
 -----------
+## 1.1\. Hashing Program For Linear Probing And Quadratic Probing
 
 [`HashTable.java`:](https://github.com/Ishagamne/Data-Structure-and-Algorithm/blob/main/Data%20Structures%20and%20Algorithms/Hashing/HashTable.java) Hash Table Implementation in Java
 
-This Java program demonstrates the implementation of a hash table with separate chaining for collision resolution. It provides options for inserting mobile numbers, displaying the hash table, and searching for mobile numbers. The program also includes choices for handling collisions using linear probing or quadratic probing.
+- This Java program demonstrates the implementation of a hash table with separate chaining for collision resolution.
+- It provides options for inserting mobile numbers, displaying the hash table, and searching for mobile numbers.
+- The program also includes choices for handling collisions using linear probing or quadratic probing.
 
 ## Program Details
 
@@ -13,7 +16,7 @@ This Java program demonstrates the implementation of a hash table with separate 
   - Quadratic Probing: When a collision occurs, the program looks for the next available slot using quadratic probing.
   - Follow the on-screen menu to perform various operations:
 
-1.1\. Hashing
+## 1.2\. Hashing Performing Set Operations
 -----------
 [`SetTheory.java`:](https://github.com/Ishagamne/Data-Structure-and-Algorithm/blob/main/Data%20Structures%20and%20Algorithms/Hashing/SetTheory.java) This Java program demonstrates basic set operations, including adding and deleting elements, displaying elements, searching for elements, determining set size, and performing set operations like union, intersection, difference, and subset checking.
 
