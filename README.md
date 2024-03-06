@@ -1,4 +1,4 @@
-## Java Programs for Data Structures and Algorithms
+## JAVA PROGRAMS FOR DATA STRUCTURES AND ALGORITHMS
 ================================================
 
 This repository contains Java programs that demonstrate various data structures and algorithms Topics.
